@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-three/drei": "3.8.6",
-    "next": "10.0.7",
+    "next": "10.2.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-three-fiber": "5.3.19",

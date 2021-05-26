@@ -4,12 +4,12 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "actionhero": "^18.1.2",
+    "actionhero": "^19.1.4",
     "ioredis": "^3.2.2",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "ws": "^4.1.0"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "start": "actionhero start"

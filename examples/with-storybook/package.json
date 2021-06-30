@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@storybook/addon-essentials": "6.0.26",
+    "@storybook/addon-essentials": "6.1.0",
     "@storybook/addon-links": "6.0.26",
     "@storybook/react": "6.0.26",
     "babel-loader": "^8.0.5"

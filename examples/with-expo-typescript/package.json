@@ -14,7 +14,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "expo": "~37.0.3",
+    "expo": "~41.0.0",
     "next": "latest",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",

@@ -22,7 +22,7 @@
     "next-transpile-modules": "4.0.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-relay": "0.0.0-experimental-8cc94ddc",
+    "react-relay": "0.0.0",
     "reason-promise": "1.0.2",
     "reason-react": "0.7.0",
     "reason-relay": "0.8.2",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "babel-plugin-relay": "^9.0.0",
     "graphql-cli": "^3.0.14",
-    "relay-compiler": "9.0.0"
+    "relay-compiler": "13.0.0"
   },
   "resolutions": {
     "graphql": "15.0.0",

@@ -12,8 +12,8 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "rebass": "1.0.0-1",
-    "styled-components": "^2.1.1"
+    "rebass": "2.3.0",
+    "styled-components": "^4.0.0"
   },
   "license": "MIT"
 }

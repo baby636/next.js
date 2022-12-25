@@ -8,14 +8,14 @@
   "dependencies": {
     "algoliasearch": "4.3.0",
     "cross-env": "^7.0.2",
-    "css-loader": "1.0.0",
+    "css-loader": "4.0.0",
     "next": "latest",
     "prop-types": "^15.5.10",
     "qs": "^6.4.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-instantsearch-dom": "6.6.0",
-    "style-loader": "^0.17.0"
+    "style-loader": "^1.1.4"
   },
   "license": "MIT"
 }

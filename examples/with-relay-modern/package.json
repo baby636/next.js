@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "relay": "relay-compiler --src ./ --exclude '**/.next/**' '**/node_modules/**' '**/test/**'  '**/__generated__/**' --exclude '**/schema/**' --schema ./schema/schema.graphql",
-    "schema": "graphql get-schema -e dev"
+    "schema": "graphql get-schema -e dev",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "license": "MIT",
   "dependencies": {
@@ -15,11 +17,13 @@
     "next": "latest",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-relay": "^9.0.0"
+    "react-relay": "^9.0.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "babel-plugin-relay": "^9.0.0",
     "graphql-cli": "^3.0.14",
     "relay-compiler": "^9.0.0"
-  }
+  },
+  "snyk": true
 }

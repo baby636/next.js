@@ -22,7 +22,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^1.17.8",
+    "@graphql-codegen/cli": "^2.0.0",
     "@graphql-codegen/plugin-helpers": "^1.17.8",
     "@graphql-codegen/typescript": "^1.17.8",
     "@graphql-codegen/typescript-operations": "^1.17.8",
@@ -37,6 +37,6 @@
     "jest": "26.4.0",
     "react-test-renderer": "16.13.1",
     "typescript": "^3.9.7",
-    "yaml-loader": "0.6.0"
+    "yaml-loader": "0.7.0"
   }
 }

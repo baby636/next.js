@@ -9,7 +9,7 @@
     "swr": "0.2.0"
   },
   "devDependencies": {
-    "cross-env": "^5.0.1",
+    "cross-env": "^6.0.0",
     "http-proxy-middleware": "^1.0.4"
   },
   "scripts": {

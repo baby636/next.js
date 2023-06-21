@@ -8,7 +8,7 @@
     "analyze": "cross-env ANALYZE=1 next build && cat .next/stats.txt"
   },
   "dependencies": {
-    "cross-env": "^5.0.1",
+    "cross-env": "^6.0.0",
     "faker": "^4.1.0",
     "next": "latest",
     "react": "^16.7.0",

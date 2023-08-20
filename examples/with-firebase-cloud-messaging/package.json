@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "firebase": "^7.6.2",
+    "firebase": "^10.2.0",
     "localforage": "^1.7.3",
     "next": "latest",
     "react": "^16.7.0",

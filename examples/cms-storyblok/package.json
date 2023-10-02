@@ -17,9 +17,9 @@
     "storyblok-js-client": "2.5.0"
   },
   "devDependencies": {
-    "postcss-flexbugs-fixes": "4.2.1",
-    "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.4.6"
+    "postcss-flexbugs-fixes": "5.0.0",
+    "postcss-preset-env": "^9.1.4",
+    "tailwindcss": "^2.2.0"
   },
   "license": "MIT"
 }

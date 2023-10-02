@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "next": "latest",
-    "lost": "8.2.0",
+    "lost": "9.0.0",
     "postcss-nested": "5.0.5",
-    "postcss": "8.2.9",
+    "postcss": "8.4.31",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "styled-jsx-plugin-postcss": "4.0.1"

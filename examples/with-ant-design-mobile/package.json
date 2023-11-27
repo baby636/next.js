@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "dependencies": {
     "@zeit/next-css": "1.0.1",
-    "antd-mobile": "2.2.5",
+    "antd-mobile": "5.0.0",
     "babel-plugin-import": "^1.2.1",
     "next": "latest",
     "null-loader": "2.0.0",

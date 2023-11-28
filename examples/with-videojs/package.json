@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^9.1.8-canary.11",
+    "next": "^10.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "video.js": "^6.7.3",

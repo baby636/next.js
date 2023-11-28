@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.2.7",
-    "apollo-server-micro": "^2.19.0",
+    "apollo-server-micro": "^3.0.0",
     "deepmerge": "4.2.2",
     "graphql": "14.2.1",
     "neo4j-driver": "^4.2.1",

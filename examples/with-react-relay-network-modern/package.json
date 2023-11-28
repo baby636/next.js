@@ -16,14 +16,14 @@
     "next": "latest",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-relay": "^9.0.0",
+    "react-relay": "^10.1.0",
     "react-relay-network-modern": "^4.5.0",
     "react-relay-network-modern-ssr": "^1.4.0",
-    "relay-hooks": "3.5.2"
+    "relay-hooks": "4.0.0"
   },
   "devDependencies": {
     "babel-plugin-relay": "^9.0.0",
-    "graphql-cli": "^3.0.11",
-    "relay-compiler": "^9.0.0"
+    "graphql-cli": "^4.0.0",
+    "relay-compiler": "^10.1.0"
   }
 }

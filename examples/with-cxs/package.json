@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "cxs": "^3.0.0",
+    "cxs": "^5.0.0",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"

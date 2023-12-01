@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "fs-extra": "7.0.1",
-    "recursive-copy": "2.0.10"
+    "recursive-copy": "2.0.14"
   }
 }

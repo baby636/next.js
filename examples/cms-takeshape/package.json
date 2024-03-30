@@ -17,7 +17,7 @@
     "takeshape-routing": "4.86.0"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.1.0",
+    "@fullhuman/postcss-purgecss": "^6.0.0",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.2.0"
   },

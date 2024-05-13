@@ -19,7 +19,7 @@
     "graphql": "15.0.0",
     "isomorphic-unfetch": "^3.0.0",
     "next": "latest",
-    "next-transpile-modules": "4.0.2",
+    "next-transpile-modules": "5.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-relay": "0.0.0-experimental-8cc94ddc",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "babel-plugin-relay": "^9.0.0",
     "graphql-cli": "^3.0.14",
-    "relay-compiler": "9.0.0"
+    "relay-compiler": "10.0.0"
   },
   "resolutions": {
     "graphql": "15.0.0",

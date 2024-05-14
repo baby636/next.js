@@ -11,7 +11,7 @@
     "start-no-custom-server": "next start"
   },
   "dependencies": {
-    "@formatjs/cli": "^2.7.3",
+    "@formatjs/cli": "^5.0.0",
     "@formatjs/intl-datetimeformat": "^2.4.3",
     "@formatjs/intl-getcanonicallocales": "^1.3.2",
     "@formatjs/intl-numberformat": "^5.4.1",

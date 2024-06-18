@@ -9,7 +9,7 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "ws": "^4.1.0"
+    "ws": "^8.17.1"
   },
   "scripts": {
     "start": "actionhero start"

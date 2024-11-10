@@ -4,7 +4,7 @@
     "next": "latest",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "serve": "11.2.0"
+    "serve": "13.0.1"
   },
   "scripts": {
     "dev": "next",

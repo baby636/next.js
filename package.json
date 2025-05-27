@@ -76,7 +76,7 @@
     "eslint-plugin-jest": "23.13.1",
     "eslint-plugin-react": "7.19.0",
     "eslint-plugin-react-hooks": "2.3.0",
-    "execa": "2.0.3",
+    "execa": "9.6.0",
     "express": "4.17.0",
     "faunadb": "2.6.1",
     "firebase": "7.14.5",

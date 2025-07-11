@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@kentico/kontent-delivery": "^9.2.0",
+    "@kentico/kontent-delivery": "^11.13.0",
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
     "gray-matter": "4.0.2",

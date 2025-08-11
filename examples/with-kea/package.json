@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "kea": "^0.28.4",
+    "kea": "^1.0.0",
     "next": "latest",
     "next-redux-wrapper": "^2.0.0",
     "prop-types": "^15.6.0",

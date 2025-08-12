@@ -18,7 +18,7 @@
     "next": "latest",
     "null-loader": "4.0.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^19.1.0",
     "webpack-filter-warnings-plugin": "1.2.1"
   },
   "license": "MIT",

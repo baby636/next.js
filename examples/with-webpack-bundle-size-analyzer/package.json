@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "cross-env": "^5.0.1",
-    "faker": "^4.1.0",
+    "faker": "^6.6.6",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

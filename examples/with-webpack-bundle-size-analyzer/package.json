@@ -11,7 +11,7 @@
     "cross-env": "^5.0.1",
     "faker": "^4.1.0",
     "next": "latest",
-    "react": "^16.7.0",
+    "react": "^19.1.0",
     "react-dom": "^16.7.0",
     "webpack-bundle-size-analyzer": "^2.7.0"
   },

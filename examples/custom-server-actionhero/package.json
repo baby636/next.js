@@ -4,7 +4,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "actionhero": "^18.1.2",
+    "actionhero": "^27.0.0",
     "ioredis": "^3.2.2",
     "next": "latest",
     "react": "^16.7.0",

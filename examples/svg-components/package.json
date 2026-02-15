@@ -12,7 +12,7 @@
     "react-dom": "^16.7.0"
   },
   "devDependencies": {
-    "babel-plugin-inline-react-svg": "^1.0.1"
+    "babel-plugin-inline-react-svg": "^2.0.0"
   },
   "license": "MIT"
 }

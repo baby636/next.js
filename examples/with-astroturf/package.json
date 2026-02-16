@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
-    "astroturf": "^0.9.2",
+    "astroturf": "^1.0.0",
     "next": "latest",
     "postcss-nested": "^4.1.2",
     "react": "^16.8.6",
